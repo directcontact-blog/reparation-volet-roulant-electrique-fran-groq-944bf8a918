@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stephenieshelorrqh35-png.github.io/reparation-volet-roulant-electrique-fran-groq-944bf8a918/sitemap.xml
